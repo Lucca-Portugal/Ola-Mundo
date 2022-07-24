@@ -4,7 +4,5 @@
 
 Essa linha adicionei através do site!
 
+Curso finalizado!!
 
-Grupo MSC
-
-Teste de "pull request invertido"
